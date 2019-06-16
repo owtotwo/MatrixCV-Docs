@@ -20,7 +20,7 @@
 
 MatrixCV简历投递系统（包括主页、用户端与管理员端的展示）
 
-![matrixcv-demo-GIF](matrixcv-demo.gif)
+![matrixcv-demo-GIF](https://github.com/owtotwo/MatrixCV-Docs/raw/gh-pages/matrixcv-demo.gif)
 
 ## 项目结构
 
